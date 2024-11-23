@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jonah Tafuri
+Sudent Email:  jttafuri@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+While my understanding of data mining is somewhat limited I was able to figure this assignment out fairly easily. It is a lot of similar features to 5-4.py (craigslist scraper) so I was able to pretty much copy that. Since the menu is separated into sections with a common class name I decided it would be best to scrape each section separately and combine them all together. This way I didn't need to do anything fancy to assign categories. I did run into issues where the code would break if the code grabbed NA values but this was dealt with using if/else statements pretty easily. I don't often use that function so it was nice to be able to with this assignment.
